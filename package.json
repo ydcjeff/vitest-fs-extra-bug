@@ -1,0 +1,16 @@
+{
+  "name": "vitest-ssr-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "vite": "^2.7.3",
+    "vitest": "^0.0.94"
+  }
+}
